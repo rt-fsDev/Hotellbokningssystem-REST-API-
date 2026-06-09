@@ -18,8 +18,7 @@ Detta system är utvecklat som en del av en skoluppgift och implementerar ett ho
 - **Spring Boot 3.2.x**
 - **Spring Security** (JWT + Basic Auth för G-nivå)
 - **Maven** - byggverktyg
-- **Lombok** - minska boilerplate-kod
-- **Jakarta Validation** - input-validering
+- **Validation** - input-validering
 
 ## Projektstruktur
 com.hotel.booking/
